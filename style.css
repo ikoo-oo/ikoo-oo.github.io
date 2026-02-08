@@ -14,7 +14,7 @@ body {
     #fde2ea,
     #f9d6e5
   ) !important;
-  color: #333;
+  color: #333 !important;
 }
 
 header {
