@@ -13,7 +13,7 @@ body {
     #fff1f7,
     #fde2ea,
     #f9d6e5
-  );
+  ) !important;
   color: #333;
 }
 
