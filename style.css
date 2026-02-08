@@ -8,7 +8,12 @@
 }
 
 body {
-  background: #f9f9ff;
+  background: linear-gradient(
+    135deg,
+    #fff1f7,
+    #fde2ea,
+    #f9d6e5
+  );
   color: #333;
 }
 
