@@ -1,7 +1,7 @@
 const contactBtn = document.getElementById("contactBtn");
 
 contactBtn.addEventListener("click", () => {
-  alert("📧 Email me at: sara.dev@email.com");
+  alert("📧 Email me at: ouidir.ikrama2@gmail.com");
 });
 
 // simple fade animation on scroll
